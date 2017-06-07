@@ -11,6 +11,8 @@
 ## 图片处理
 * [生成在线图片地址](https://sm.ms/)
 * [压缩png或jpg图片](https://tinyjpg.com/)
+* [随机生成图片1](https://unsplash.it/)
+* [随机生成图片2](http://lorempixel.com/)
 
 ## 兼容性
 * [caniuse](https://caniuse.com/)
