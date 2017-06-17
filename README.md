@@ -4,7 +4,7 @@
 ## 编辑器和IDE
 * [webstorm](http://www.jetbrains.com/webstorm/)
 * [vim](http://www.vim.org/)
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/download)
 * [sublimetext](http://www.sublimetext.com/)
 * [atom](https://atom.io/)
 
