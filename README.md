@@ -24,4 +24,4 @@
 ## 代码优化、规范
 * [jshint————检测JavaScript代码中的错误和潜在问题](https://github.com/jshint/jshint)
 * [eslint————更好的选择](https://github.com/eslint/eslint)
-
+* [standardjs](https://standardjs.com/readme-zhcn.html)
