@@ -17,6 +17,11 @@
 ## 兼容性
 * [caniuse](https://caniuse.com/)
 
-## 管理代码
+## 版本控制工具
 * [git](https://git-scm.com/)
 * [svn](http://subversion.apache.org/)
+
+## 代码优化、规范
+* [jshint————检测JavaScript代码中的错误和潜在问题](https://github.com/jshint/jshint)
+* [eslint————更好的选择](https://github.com/eslint/eslint)
+
